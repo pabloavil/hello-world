@@ -7,5 +7,6 @@ int main(){
 
 
 cout<<"Hello world";
+cout<<"Nuevas feature incorporada";
 return 0;
 }
